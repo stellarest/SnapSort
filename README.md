@@ -1,2 +1,2 @@
 # SnapSort
-Automatically sorts macOS screenshots into folders by date.
+- Automatically sorts macOS screenshots into folders by date.
